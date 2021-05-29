@@ -1,0 +1,23 @@
+{
+  "name": "fasmga-debianissimo",
+  "version": "2.0.0",
+  "description": "Fasm.ga for Debianissimo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Debianissimo/fasmga-debianissimo.git"
+  },
+  "author": "Fasm.ga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Debianissimo/fasmga-debianissimo/issues"
+  },
+  "homepage": "https://github.com/Debianissimo/fasmga-debianissimo#readme",
+  "dependencies": {
+    "electron": "^13.0.1"
+  }
+}
